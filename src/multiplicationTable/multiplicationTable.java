@@ -14,6 +14,7 @@ numberToMultiply =keyboard.nextInt();
 System.out.println("Enter the number of rows");
 numberOfTimes =keyboard.nextInt();
 table.multiply(numberToMultiply,numberOfTimes);
+//Test
 
 	}
 

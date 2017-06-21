@@ -15,6 +15,7 @@ public void multiply(int a, int b)
 for (int x=1;x<=b;x++)
 {
 System.out.println(+a+"x"+x+"="+(a*x));
+//System.out.println(test);
 
 }
 
